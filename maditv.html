@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src='LINK_TO_YOUR_PLAYER'></script>
+    <script>jwplayer.key='YOUR_KEY';</script>
+</head>
+<body>
+    <div id="player">Loading the player...</div>
+    <script>
+        // Setup the player
+        const player = jwplayer('player').setup({
+            file: 'https://series.moviefighter.workers.dev/Hoor%2520Pari/Copy%2520of%2520Hoor%2520Pari%2520-%2520%2520Episode%252028%2520Last%2520Episode%2520_%2520Aplus%2520Dramas%2520_%2520Alizeh%2520Shah%2C%2520Ammara%2520Butt%2C%2520Usman%2520Butt%2520_%2520Pakistani%2520Drama.mp4'
+        });
+
+        // Listen to an event
+        player.on('pause', (event) => {
+            alert('Why did my user pause their video instead of watching it?');
+        });
+
+        // Call the API
+        const bumpIt = () => {
+            const vol = player.getVolume();
+            player.setVolume(vol + 10);
+        }
+        bumpIt();
+    </script>
+</body>
+</html>
