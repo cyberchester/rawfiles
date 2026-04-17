@@ -1,0 +1,3064 @@
+[
+  {
+    "name": "g&g Convenience Store @ G0001",
+    "stationCode": "G0001",
+    "address": "No.(130), Sanchaung Street, Shin Saw Pu Ward, Sanchaung Township",
+    "contact": "",
+    "lat": 16.802149,
+    "lng": 96.135879,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0011",
+    "stationCode": "G0011",
+    "address": "No.(75/B), Banyar Dala Road, Bocho(2) Ward, Bahan Township",
+    "contact": "",
+    "lat": 16.806861,
+    "lng": 96.171832,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0017",
+    "stationCode": "G0017",
+    "address": "No.(134/A), Muditar Housing, Upper Baho Road, Mayangone Tsp.",
+    "contact": "",
+    "lat": 16.864282,
+    "lng": 96.116567,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0022",
+    "stationCode": "G0022",
+    "address": "No. (63/64), Ground Floor, Bahosi Housing, (10) Ward, Lanmadaw Township, Yangon",
+    "contact": "",
+    "lat": 16.779306,
+    "lng": 96.140177,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0023",
+    "stationCode": "G0023",
+    "address": "No.(32),C/1, Kyaik Ka san Pagoda Street, Sa/Ka Ward, Thingungyun Township",
+    "contact": "",
+    "lat": 16.8334401,
+    "lng": 96.1923485,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0027",
+    "stationCode": "G0027",
+    "address": "No.(20+35),Terminal, T-205 Petrol Station, Between Mindhama Road & Kyaik Wine Pagoda Road, Mayangone Township",
+    "contact": "",
+    "lat": 16.8668525,
+    "lng": 96.1318806,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0028",
+    "stationCode": "G0028",
+    "address": "No.(6/A1),Kanbae Butaryone Street,(12)Ward, Yankin Township",
+    "contact": "",
+    "lat": 16.839131,
+    "lng": 96.16617,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0037",
+    "stationCode": "G0037",
+    "address": "No.(182), SeikKan Thar Middle Block, KyauktadarTownship",
+    "contact": "",
+    "lat": 16.774907,
+    "lng": 96.163132,
+    "active": true
+  },
+
+
+  {
+    "name": "g&g Convenience Store @ G0065",
+    "stationCode": "G0065",
+    "address": "No.(29-A), Zayar Thiri Street, Kamaryut(1) Ward, Kamaryut Township",
+    "contact": "",
+    "lat": 16.8282696,
+    "lng": 96.1298761,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0067",
+    "stationCode": "G0067",
+    "address": "No.(14B), Sayar San Road, Hanthar Yeik Mon Housing,(5) Ward, Kamaryut Township.(Sinmalite)",
+    "contact": "",
+    "lat": 16.8220553,
+    "lng": 96.122183,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0076",
+    "stationCode": "G0076",
+    "address": "No.(94), Baho Road, Ma Kyee Kyee Street, Sanchaung Monk South Ward, Sanchaung Township",
+    "contact": "",
+    "lat": 16.8096046,
+    "lng": 96.1295133,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0083",
+    "stationCode": "G0083",
+    "address": "No.(4),(A-1),Parami Road,(10)Ward, Mayangone Township",
+    "contact": "",
+    "lat": 16.851401,
+    "lng": 96.151174,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0087",
+    "stationCode": "G0087",
+    "address": "No.(152-B), Myanmargoneyee Road, Kan West Ward, Mingalar Taung Nyunt Township",
+    "contact": "",
+    "lat": 16.7867521,
+    "lng": 96.163911,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0092",
+    "stationCode": "G0092",
+    "address": "No.131,Room(5),(2)Ward, Anawyahtarmain Road, LathaTowsnhip",
+    "contact": "",
+    "lat": 16.777196,
+    "lng": 96.148057,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0104",
+    "stationCode": "G0104",
+    "address": "No.(129-2B), The West Of Ywa Ma Ward, Insein Township",
+    "contact": "",
+    "lat": 16.888368,
+    "lng": 96.091983,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0112",
+    "stationCode": "G0112",
+    "address": "No.(4/001), Byint Naung Road, 4-Yard, Kamaryut Township",
+    "contact": "",
+    "lat": 16.822897,
+    "lng": 96.1226398,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0115",
+    "stationCode": "G0115",
+    "address": "BOC (PetrolStation), Tha Kay Ta Shu Khin Tha Road, Tha Kay Ta Township",
+    "contact": "",
+    "lat": 16.7976968,
+    "lng": 96.2236081,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0128",
+    "stationCode": "G0128",
+    "address": "No.(426), Kan Nar Road, South Of Tha Yat Taw Ward, Kyeemyindaing Township",
+    "contact": "",
+    "lat": 16.81879,
+    "lng": 96.122039,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0129",
+    "stationCode": "G0129",
+    "address": "No.(96/98) Building(1), Baho Street, San North Ward, Sanchaung Township",
+    "contact": "",
+    "lat": 16.8030693,
+    "lng": 96.1299639,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0132",
+    "stationCode": "G0132",
+    "address": "No.(82-A), the corner of Mingalar Street & Padonmar Street, San North Ward, Sanchaung Township",
+    "contact": "",
+    "lat": 16.803166,
+    "lng": 96.134259,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0143",
+    "stationCode": "G0143",
+    "address": "PT Power Petrolstation, No/17, Ayeyawom Road, 62-Wards, South Dagon Township",
+    "contact": "",
+    "lat": 16.8259743,
+    "lng": 96.2394326,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0144",
+    "stationCode": "G0144",
+    "address": "No.(197,198,199), The Corner of Mya Theingi Street & Pinlone Street, (26)Ward, South Dagon Township",
+    "contact": "",
+    "lat": 16.847622,
+    "lng": 96.218978,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0145",
+    "stationCode": "G0145",
+    "address": "No.408-B, Kaw Li Ya St,(13)Ward, S/Oakkalapa Township",
+    "contact": "",
+    "lat": 16.8428736,
+    "lng": 96.1930784,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0148",
+    "stationCode": "G0148",
+    "address": "No.81/85,56 Street, (2)Ward, Anaw Ya Htar Road, Pazuntaung Township",
+    "contact": "",
+    "lat": 16.7765485,
+    "lng": 96.174959,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0151",
+    "stationCode": "G0151",
+    "address": "No.60,  Shwe Dagone Pagoda Road, Prime Hill Japanease Business Central, Dagon Township",
+    "contact": "",
+    "lat": 16.783728,
+    "lng": 96.154102,
+    "active": true
+  },
+
+
+  {
+    "name": "g&g Convenience Store @ G0165",
+    "stationCode": "G0165",
+    "address": "No.(9-Ka),Yadanar Road,16/2 Ward, Thingunkyun Township, Yangon",
+    "contact": "",
+    "lat": 16.834326,
+    "lng": 96.179778,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0177",
+    "stationCode": "G0177",
+    "address": "No.82, Nattsin Road, Ma Gyi Tan East North Ward, Kyie Myint Tine Township, Yangon",
+    "contact": "",
+    "lat": 16.81437,
+    "lng": 96.124118,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0208",
+    "stationCode": "G0208",
+    "address": "No 365/366, Min Ye Kyaw Swar Street, 1Ward, Mayangone Township",
+    "contact": "",
+    "lat": 16.8625635,
+    "lng": 96.1105758,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0224",
+    "stationCode": "G0224",
+    "address": "No(102/1), Pyi Htaung Su St, (38)Ward, North Dagon Township.",
+    "contact": "",
+    "lat": 16.8914095,
+    "lng": 96.196875,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0230",
+    "stationCode": "G0230",
+    "address": "No(18-A-1) , West Horse Racing Course Road, Tamwe Gyi (Kha) Ward,Tamwe Township.",
+    "contact": "",
+    "lat": 16.81265,
+    "lng": 96.170783,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0242",
+    "stationCode": "G0242",
+    "address": "No(86), Myot Ma Ward, Ygn-Mdy  Highway Road, Hlegu Township.",
+    "contact": "",
+    "lat": 17.095636,
+    "lng": 96.216747,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0257",
+    "stationCode": "G0257",
+    "address": "No(857), Thutikar (7) Street, 2 Ward, NorthOkkalapa.",
+    "contact": "",
+    "lat": 16.876107,
+    "lng": 96.158744,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0275",
+    "stationCode": "G0275",
+    "address": "No(346), Kyauk Htet Ward, Banyar Dala Road, Tamwe Township.",
+    "contact": "",
+    "lat": 16.8006785,
+    "lng": 96.175506,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0276",
+    "stationCode": "G0276",
+    "address": "No(274/A), Than Thu Mar Road, Kyee Pwar Yay Ward, Thin gan gyun Township.",
+    "contact": "",
+    "lat": 16.838423,
+    "lng": 96.207688,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0278",
+    "stationCode": "G0278",
+    "address": "GEM Condo, No (113), Unit No-(G1/01-06) level-1, YGN-Insein Road, Hlaing Township.",
+    "contact": "",
+    "lat": 16.843048,
+    "lng": 96.12726,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0281",
+    "stationCode": "G0281",
+    "address": "No(337/B), Lay Htaunk Kan St, Thu Mingalar Ward, Thingangyun Township.",
+    "contact": "",
+    "lat": 16.828246,
+    "lng": 96.188809,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0290",
+    "stationCode": "G0290",
+    "address": "Ground Floor Of Dormitory Block 4B ,Residential and Commercial Area Of Zone A,Thilawa Special Economic Zone, ThanLyin Township.",
+    "contact": "",
+    "lat": 16.682795,
+    "lng": 96.28124,
+    "active": true
+  },
+
+
+  {
+    "name": "g&g Convenience Store @ G0349",
+    "stationCode": "G0349",
+    "address": "No(18), ArThawKa St, Ma Hlwa Kone Htay Kywe (Ka) Ward, Tamwe Township, YGN.",
+    "contact": "",
+    "lat": 16.80665,
+    "lng": 96.179489,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0357",
+    "stationCode": "G0357",
+    "address": "(No.159/Kha), 8-Ward, Nga Htwe Yu Road, East Dagon Township, YGN.",
+    "contact": "",
+    "lat": 16.8953123,
+    "lng": 96.2082137,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0363",
+    "stationCode": "G0363",
+    "address": "Yangon General Hospital, Bogyake Aung San Road,LathaTownship.",
+    "contact": "",
+    "lat": 16.7792729,
+    "lng": 96.1495443,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0365",
+    "stationCode": "G0365",
+    "address": "(985) , PT power petrol station, Yangon-Mandalay NewHighway Rd, Hlaeku Township.",
+    "contact": "",
+    "lat": 17.070791,
+    "lng": 96.170887,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0372",
+    "stationCode": "G0372",
+    "address": "Unit No.S1 , Dhamasadi Road, Youth Bazaar, PeoplePark, San Chaung",
+    "contact": "",
+    "lat": 16.801727,
+    "lng": 96.139652,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0376",
+    "stationCode": "G0376",
+    "address": "No.3, MainRoad, ShweNanthar Group, Pearl Quarter, Mingalardone Township,Yangon",
+    "contact": "",
+    "lat": 16.9778178,
+    "lng": 96.148073,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0377",
+    "stationCode": "G0377",
+    "address": "No.2,Main Rd, No.14 Wards, South Dagon MyoThit, SouthDagon Township. (PTPowerPetroStation)",
+    "contact": "",
+    "lat": 16.8935473,
+    "lng": 96.242264,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0396",
+    "stationCode": "G0396",
+    "address": "Corner of No. 3,Highway Road & Kha Yae Pin Road, Mingaladon Township, Yangon",
+    "contact": "",
+    "lat": 16.940819,
+    "lng": 96.15348,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0397",
+    "stationCode": "G0397",
+    "address": "No.153/154, Yamonar Main Road, Zayar Thiri Ward, Dawbon Township, Yangon,",
+    "contact": "",
+    "lat": 16.7784065,
+    "lng": 96.1937141,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0403",
+    "stationCode": "G0403",
+    "address": "No(142), Ye Yan Aung ward, Kyaik Wyne Pagoda St, Mayangone Township.",
+    "contact": "",
+    "lat": 16.8657776,
+    "lng": 96.1246639,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0410",
+    "stationCode": "G0410",
+    "address": "No.276,B-1 Ground Floor, Corner of Moe Kaung Road & East Horse Race Course Road, Tarmwe Township,Yangon.",
+    "contact": "",
+    "lat": 16.826128,
+    "lng": 96.171441,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0424",
+    "stationCode": "G0424",
+    "address": "No.35/B, Min Road,  Middle Ward, Kyauk Tan Township",
+    "contact": "",
+    "lat": 16.6355668,
+    "lng": 96.3265778,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0432",
+    "stationCode": "G0432",
+    "address": "N0(05/06), Bo Myat Htun Tower, Grand Floor, Maha Bandula Road,(9)Ward, Botadaung Township",
+    "contact": "",
+    "lat": 16.773925,
+    "lng": 96.16966,
+    "active": true
+  },
+
+
+  {
+    "name": "g&g Convenience Store @ G0441",
+    "stationCode": "G0441",
+    "address": "Pazundaung",
+    "contact": "",
+    "lat": 16.778735,
+    "lng": 96.175182,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0442",
+    "stationCode": "G0442",
+    "address": "No.69, Hledan Main Road, 8 Ward, Kamayut Township,YGN",
+    "contact": "",
+    "lat": 16.826372,
+    "lng": 96.127812,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0444",
+    "stationCode": "G0444",
+    "address": "No(874), Byamaso Street, 4-Quarter, South Okkalapa Tsp, YGN",
+    "contact": "",
+    "lat": 16.8493612,
+    "lng": 96.1739362,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0450",
+    "stationCode": "G0450",
+    "address": "No(16), Ariya Maggin Street, (14) Ward,Yankin Township, YGN",
+    "contact": "",
+    "lat": 16.8308635,
+    "lng": 96.1649391,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0452",
+    "stationCode": "G0452",
+    "address": "10/South Quarter, Kamarkyi Road, Tharkayta Township,YGN",
+    "contact": "",
+    "lat": 16.806228,
+    "lng": 96.218756,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0454",
+    "stationCode": "G0454",
+    "address": "No(18/B), HlawKar Street,(56) ward, South Dagon, YGN",
+    "contact": "",
+    "lat": 16.862837,
+    "lng": 96.248071,
+    "active": true
+  },
+
+  
+  {
+    "name": "g&g Convenience Store @ G0463",
+    "stationCode": "G0463",
+    "address": "No(652),(A-1),Pyi Thar Yar Street, 16/4Ward, Thingangyun",
+    "contact": "",
+    "lat": 16.8297,
+    "lng": 96.185647,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0469",
+    "stationCode": "G0469",
+    "address": "No.21, Parami Road, 5ward, south Okkalapa Township, Yangon",
+    "contact": "",
+    "lat": 16.8565876,
+    "lng": 96.171846,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0692",
+    "stationCode": "G0692",
+    "address": "Building 5, No.3, 54thStreet, Anawrahta Housing, Pazundaung Township, Yangon.",
+    "contact": "",
+    "lat": 16.77711947,
+    "lng": 96.17357521,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0693",
+    "stationCode": "G0693",
+    "address": "No.53/A, Thanthumar Street, 7ward, South Oakkalapa Township, Yangon.",
+    "contact": "",
+    "lat": 16.85619954,
+    "lng": 96.18216178,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0694",
+    "stationCode": "G0694",
+    "address": "No.297, MahaBandula Road, 8 ward, Botahtaung Township,Yangon.",
+    "contact": "",
+    "lat": 16.77419524,
+    "lng": 96.16551703,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0697",
+    "stationCode": "G0697",
+    "address": "No(966), Thama Kyaung Road, Nyaung Thone Pin, Thanlyin Township, Yangon.",
+    "contact": "",
+    "lat": 16.7583549,
+    "lng": 96.2641815,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0698",
+    "stationCode": "G0698",
+    "address": "No(39), Baho Road, Thantada ward, Sanchaung Township, Yangon.",
+    "contact": "",
+    "lat": 16.8104606,
+    "lng": 96.1280352,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0700",
+    "stationCode": "G0700",
+    "address": "No(62), Thadi pahtan Rd, MyoMa(South) Ward, Thanlyin Township.",
+    "contact": "",
+    "lat": 16.7608055555556,
+    "lng": 96.24325,
+    "active": true
+  },
+
+
+  {
+    "name": "g&g Convenience Store @ G0703",
+    "stationCode": "G0703",
+    "address": "No.(46), Kwin Kaung Street, Sin Min ward, Ahlone Township, Yangon.",
+    "contact": "",
+    "lat": 16.8376388888889,
+    "lng": 96.1292222222222,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0704",
+    "stationCode": "G0704",
+    "address": "No.A/33,Pyay Road, Buta Ward,Taikyi Township, Yangon",
+    "contact": "",
+    "lat": 17.3132777777778,
+    "lng": 95.9640833333333,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0705",
+    "stationCode": "G0705",
+    "address": "No.39, Bo Aung Kyaw Street, 4 Ward, TaikKyi Township,Yangon.",
+    "contact": "",
+    "lat": 17.31425,
+    "lng": 95.9625,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0711",
+    "stationCode": "G0711",
+    "address": "No.31, Ma U Kone Street, Ma U Kone Ward ,Tamwe Township, Yangon. .",
+    "contact": "",
+    "lat": 16.7957777777778,
+    "lng": 96.17375,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0712",
+    "stationCode": "G0712",
+    "address": "No11, Kanbae Station Road, 14ward, Yankin Township, Yangon",
+    "contact": "",
+    "lat": 16.8366666666667,
+    "lng": 96.1641111111111,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0699",
+    "stationCode": "G0699",
+    "address": "No(20/A), Kan Road, 10ward, Hlaing Township, Yangon.",
+    "contact": "",
+    "lat": 16.8376388888889,
+    "lng": 96.1292222222222,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0713",
+    "stationCode": "G0713",
+    "address": "No.50, Awba Street, Kyauk Ward, Tarmwe Township, Yangon.",
+    "contact": "",
+    "lat": 16.8009166666667,
+    "lng": 96.1771388888889,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0714",
+    "stationCode": "G0714",
+    "address": "No.(824)၊Corner of Bo Min Yaung Road and Tha khin Pho Hla Gyi Road, North Dagon Township ,Yangon",
+    "contact": "",
+    "lat": 16.8866666666667,
+    "lng": 96.1763055555556,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0716",
+    "stationCode": "G0716",
+    "address": "No(11/B), Shwe La Wun Street, Kyun Taw South Ward, Sanchaung Township, Yangon.",
+    "contact": "",
+    "lat": 16.8043611111111,
+    "lng": 96.1318611111111,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0717",
+    "stationCode": "G0717",
+    "address": "No.320, Ground Floor, Anawrahta Road, Middle Block-Pabedan Township, Yangon.",
+    "contact": "",
+    "lat": 16.7771388888889,
+    "lng": 96.1538611111111,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0718",
+    "stationCode": "G0718",
+    "address": "No.123, Corner Of Mya Yar Gone Road and 122nd Street, Mingalar Taung Nyunt Township, Yangon.",
+    "contact": "",
+    "lat": 16.7883888888889,
+    "lng": 96.1726388888889,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0722",
+    "stationCode": "G0722",
+    "address": "Thukha Dagon Housing, East Dagon,Yangon",
+    "contact": "",
+    "lat": 16.9455833333333,
+    "lng": 96.2973055555556,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0721",
+    "stationCode": "G0721",
+    "address": "No.1231/B , Kwan Atthar Min Thar Road (ThanLwin Street), 88 Ward, Dagon SeikKan Township.",
+    "contact": "",
+    "lat": 20.9573333333333,
+    "lng": 95.9590277777778,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0723",
+    "stationCode": "G0723",
+    "address": "42/A. Inyar Myaing St, Golden Valley, Shwe Taung Kyar(2) Ward, Bahan Township, Yangon",
+    "contact": "",
+    "lat": 16.8135277777778,
+    "lng": 96.1486388888889,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0724",
+    "stationCode": "G0724",
+    "address": "No.46, Boyoke Upper Block, PazunTaung Township, Yangon",
+    "contact": "",
+    "lat": 16.7788888888889,
+    "lng": 96.1725277777778,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0725",
+    "stationCode": "G0725",
+    "address": "No.34, Taw Win Street, Htee Tan Ward, KyeeMyindaing Township, Yangon.",
+    "contact": "",
+    "lat": 16.8007777777778,
+    "lng": 96.1230277777778,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0726",
+    "stationCode": "G0726",
+    "address": "Bayint Naung, Insein",
+    "contact": "",
+    "lat": 16.8864722222222,
+    "lng": 96.0973333333333,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0727",
+    "stationCode": "G0727",
+    "address": "No.326,Kannar Road, North Ma Kyee Tan Street, Kyee Myin daing Township,Yangon.",
+    "contact": "",
+    "lat": 16.8139722222222,
+    "lng": 96.1220833333333,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0730",
+    "stationCode": "G0730",
+    "address": "No.(53/B), Thadi Pa htan Road, Ma Hlwa Kone  Htay Kyawl Ward, Tamwe Township,Yangon",
+    "contact": "",
+    "lat": 16.8058333333333,
+    "lng": 96.1788055555556,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0729",
+    "stationCode": "G0729",
+    "address": "No.290, Kannar Road, NorthEast MakyeeTan Ward, KyeeMyindaing Township, Yangon.",
+    "contact": "",
+    "lat": 16.8126111111111,
+    "lng": 96.1221388888889,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0731",
+    "stationCode": "G0731",
+    "address": "No.2, South Pouk Kone,  Yangon–Pyay  Road, Oakkan Township, Yangon.",
+    "contact": "",
+    "lat": 17.5007222222222,
+    "lng": 95.8543611111111,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0732",
+    "stationCode": "G0732",
+    "address": "No.25, Bogyoke Street, Nattalin Township, Bago.",
+    "contact": "",
+    "lat": 18.42925,
+    "lng": 95.5531666666667,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0736",
+    "stationCode": "G0736",
+    "address": "No.70/A, Sanchaung street, Sanchaung north ward, Sanchaung township, Yangon.",
+    "contact": "",
+    "lat": 16.80208,
+    "lng": 96.13369,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0737",
+    "stationCode": "G0737",
+    "address": "No.(39)၊Arthawka Street, NatChaung Ward,  Tamwe Township,Yangon.",
+    "contact": "",
+    "lat": 16.80825,
+    "lng": 96.1799444444444,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0738",
+    "stationCode": "G0738",
+    "address": "No.(11/B)၊ PyayRoad,(5)Ward, Mayangone Township,Yangon.",
+    "contact": "",
+    "lat": 16.87747718,
+    "lng": 96.13773252,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0739",
+    "stationCode": "G0739",
+    "address": "Yangon-Mandalay Old Road, Ywar LalPaing Ward,  Hlegu Township, Yangon.",
+    "contact": "",
+    "lat": 17.0871666666667,
+    "lng": 96.1966666666667,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0740",
+    "stationCode": "G0740",
+    "address": "Yangon-No-A/12, Room(001), Shu khin thar Myo Pat Road,(5) kway Shu khin thar Ward, Tharketa Township, Yangon.",
+    "contact": "",
+    "lat": 16.7912222222222,
+    "lng": 96.2068333333333,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0741",
+    "stationCode": "G0741",
+    "address": "Yangon-No(507), Pyay Road,(8)Ward, Kamaryut Township, Yangon.",
+    "contact": "",
+    "lat": 16.8251388888889,
+    "lng": 96.1308611111111,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0744",
+    "stationCode": "G0744",
+    "address": "No(5), Theini Street, Thidar Ward, KyeeMyinDaing Township, Yangon.",
+    "contact": "",
+    "lat": 16.7944722222222,
+    "lng": 96.1259444444444,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0746",
+    "stationCode": "G0746",
+    "address": "No(36/A), Ground Floor, Room(5), Baho Road, Aung Chan Thar Ward, Sanchaung Township, Yangon.",
+    "contact": "",
+    "lat": 16.7995833333333,
+    "lng": 96.1306944444444,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0747",
+    "stationCode": "G0747",
+    "address": "No(692), Myitta Road, (12) Ward, South Okkalapa Township,Yangon.",
+    "contact": "",
+    "lat": 16.8448333333333,
+    "lng": 96.1868888888889,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0748",
+    "stationCode": "G0748",
+    "address": "No(17/B), Ground Floor, Sett Mhue Yadanar Street, Myitta Nyunt Ward, Tamwe Township,Yangon.",
+    "contact": "",
+    "lat": 16.8142222222222,
+    "lng": 96.1847222222222,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0749",
+    "stationCode": "G0749",
+    "address": "Building 7, Room No.002, Ground Floor, Inwa Housing, Myeik Steet, 66 ward, SouthDagon Township, Yangon.",
+    "contact": "",
+    "lat": 16.8428888888889,
+    "lng": 96.2419166666667,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0750",
+    "stationCode": "G0750",
+    "address": "No.(13), Ground Floor, Padonmar Street, Sanchaung North Ward, Sanchaung Township, Yangon.",
+    "contact": "",
+    "lat": 16.8027222222222,
+    "lng": 96.13425,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0751",
+    "stationCode": "G0751",
+    "address": "No.(146), Ahnawyahtar Road ,Btw (47) & (48) Street, (10) Ward, Botahtaung Township, Yangon.",
+    "contact": "",
+    "lat": 16.7767222222222,
+    "lng": 96.1691388888889,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0753",
+    "stationCode": "G0753",
+    "address": "No.(81), PunHlaing Street, Home Lan Butar Ward, Sanchaung Township, Yangon.",
+    "contact": "",
+    "lat": 16.7978055555556,
+    "lng": 96.1287777777778,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0754",
+    "stationCode": "G0754",
+    "address": "No.(103), Ground Floor, Kyauk Myaug Street, Kyar Kwat Thit Ward, Tamwe Township, Yangon.",
+    "contact": "",
+    "lat": 16.8034166666667,
+    "lng": 96.1765555555556,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0755",
+    "stationCode": "G0755",
+    "address": "No-(67), Ahnawyahtar Road, Btw (40)th Street and Bo Aung Kyaw Street, Kyauktada Township,Yangon.",
+    "contact": "",
+    "lat": 16.7766111111111,
+    "lng": 96.1642222222222,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0758",
+    "stationCode": "G0758",
+    "address": "Star City Compound, City Loft Building CL-10, Thanlyin Township, Yangon.",
+    "contact": "",
+    "lat": 16.7781666666667,
+    "lng": 96.2289722222222,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0761",
+    "stationCode": "G0761",
+    "address": "La pyae wun Plaza ~No-(37), Ground Floor,  Alanpya Pagoda Road, DagonTownship, Yangon.",
+    "contact": "",
+    "lat": 16.7838055555556,
+    "lng": 96.1579722222222,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0760",
+    "stationCode": "G0760",
+    "address": "No-(28), Ground Floor, Building (A-2), Room (2), Kan Street, Hlaing Township, Yangon.",
+    "contact": "",
+    "lat": 16.8374444444444,
+    "lng": 96.1281388888889,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0759",
+    "stationCode": "G0759",
+    "address": "No-(15/A), Ground Floor, Mahlwagone Street, Kyar Kwat Thit  Sanpya  Ward,Tamwe Township,Yangon.",
+    "contact": "",
+    "lat": 16.8033333333333,
+    "lng": 96.1760833333333,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0763",
+    "stationCode": "G0763",
+    "address": "No-(8), Ground Floor, Ma U Gone Street,Ma U Gone Ward, Tamwe  Township, Yangon.",
+    "contact": "",
+    "lat": 16.79493107,
+    "lng": 96.17534131,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0765",
+    "stationCode": "G0765",
+    "address": "No-(5), Ground Floor, Hlaing  Station Street, (6) Ward, Hlaing Township, Yangon.",
+    "contact": "",
+    "lat": 16.8368625746247,
+    "lng": 96.1272652289756,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0766",
+    "stationCode": "G0766",
+    "address": "No-(736), Ground Floor, MarlarNwe Street, Myitta Nyunt Ward, Tamwe Township, Yangon.",
+    "contact": "",
+    "lat": 16.81355916,
+    "lng": 96.17936227,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0767",
+    "stationCode": "G0767",
+    "address": "No-(375), Hlegu-Sartalin Road, Pyitawthar Sattmhue Ward, Hlegu Township, Yangon.",
+    "contact": "",
+    "lat": 17.09452594,
+    "lng": 96.23017885,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0770",
+    "stationCode": "G0770",
+    "address": "No-(147/151), Ground Floor, Ahnawyahtar Road, Btw (35TH ) Street and Maharbandoola Park Road,  (1) Ward,  Kyauktada Township, Yangon.",
+    "contact": "",
+    "lat": 16.77688408,
+    "lng": 96.1607132,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0771",
+    "stationCode": "G0771",
+    "address": "No-(82), Ground Floor, Corner of Ahnawyahtar Road and (39) Street, (8) Ward, Kyauktada Township, Yangon.",
+    "contact": "",
+    "lat": 16.7768303,
+    "lng": 96.16361382,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0772",
+    "stationCode": "G0772",
+    "address": "Room-(1), Corner Of Kamarkyi Road and Nyaung Ai Street, (29) Ward,  Thingankyun Township, Yangon.",
+    "contact": "",
+    "lat": 16.8238234617246,
+    "lng": 96.21089589,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0773",
+    "stationCode": "G0773",
+    "address": "No-(311/4), Corner Of Banyardala Road and (145)Street, Ayoegone Ward, Tamwe Township, Yangon.",
+    "contact": "",
+    "lat": 16.79901566,
+    "lng": 96.17604007,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0774",
+    "stationCode": "G0774",
+    "address": "No-(18), Bayint Naung Road,(5/5)Ward,  Shwe Pyi Thar Township,Yangon.",
+    "contact": "",
+    "lat": 16.95756706,
+    "lng": 96.07657916,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0777",
+    "stationCode": "G0777",
+    "address": "No-(192), Ground Floor, Ahnawyahtar Road, Btw (13th) &(14th) Street,(6) Ward, Lanmadaw Township, Yangon.",
+    "contact": "",
+    "lat": 16.77742145,
+    "lng": 96.14571883,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0778",
+    "stationCode": "G0778",
+    "address": "No-(67), Ground Floor, Bothura Street, EastZayGyi Ward, KyeeMyinDaing Township, Yangon.",
+    "contact": "",
+    "lat": 16.80767631,
+    "lng": 96.12381784,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0779",
+    "stationCode": "G0779",
+    "address": "No-(14), Aung Mingalar Street, BoLaneAung Mingalar Ward, Tamwe Township, Yangon.",
+    "contact": "",
+    "lat": 16.79780158,
+    "lng": 96.17745034,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0780",
+    "stationCode": "G0780",
+    "address": "No-(3), Ground Floor, Botayza Street, Shwe Pauk Kan (16) Ward, North Okkalapa Township,Yangon.",
+    "contact": "",
+    "lat": 16.94073396,
+    "lng": 96.17490389,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0781",
+    "stationCode": "G0781",
+    "address": "No-(35), Ground Floor, Yadanar Street,(3)Ward, ,Kamarut Township, Yangon.",
+    "contact": "",
+    "lat": 16.8309357,
+    "lng": 96.12407981,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0845",
+    "stationCode": "G0845",
+    "address": "No-(48/B), Ground Floor, Dhamayone Street, Myayni South Ward, Sanchaung Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8052386734737,
+    "lng": 96.1397368544194,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0829",
+    "stationCode": "G0829",
+    "address": "No-(497/481), Room(1+2), Ground Floor, Cr of Merchant and Bo Aung Kyaw Road,(7)Ward, Botahtaung Township",
+    "contact": "",
+    "lat": 16.771576428835,
+    "lng": 96.1644794987959,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0849",
+    "stationCode": "G0849",
+    "address": "No-(418) Ground Floor, Nawarat Pat Street, (8) Ward, Thaketa Tsp, Yangon.",
+    "contact": "",
+    "lat": 16.8069188224132,
+    "lng": 96.2133101865066,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0850",
+    "stationCode": "G0850",
+    "address": "No-(120) Ground Floor, Aung Zayya Street, Loot Lat Yay Ward, Ahlone Tsp, Yangon",
+    "contact": "",
+    "lat": 16.7908418161194,
+    "lng": 96.1227164261331,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0783",
+    "stationCode": "G0783",
+    "address": "No-(3381), Dalla-Twante Road, Kyan Sitt Thar Ward, Dala Tsp, Yangon",
+    "contact": "",
+    "lat": 16.7577331699598,
+    "lng": 96.1402223818848,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0784",
+    "stationCode": "G0784",
+    "address": "No-(667), Corner of Sayarsan Street and Sayarsan (4)Street, Sat Myay Ward, Dala Tsp. Yangon",
+    "contact": "",
+    "lat": 16.7576809905983,
+    "lng": 96.1455767444517,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0785",
+    "stationCode": "G0785",
+    "address": "No-(16), Kan Street, (10) Ward, Hlaing Tsp. Yangon",
+    "contact": "",
+    "lat": 16.8381316016756,
+    "lng": 96.1335090623766,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0787",
+    "stationCode": "G0787",
+    "address": "No(193), Ground Floor, Bo Myat Tun Road, (9)Ward, Botahtaung Tsp, Yangon",
+    "contact": "",
+    "lat": 16.7751928084355,
+    "lng": 96.1698397217814,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0788",
+    "stationCode": "G0788",
+    "address": "No-(69/71), Lan Thit Road, (3) Ward, Lanmadaw Tsp, Yangon",
+    "contact": "",
+    "lat": 16.7766924801673,
+    "lng": 96.1422046230524,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0789",
+    "stationCode": "G0789",
+    "address": "No-(50), Myint Mo Street, San South Ward, Sanchaung Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8016914909665,
+    "lng": 96.132994232881,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0790",
+    "stationCode": "G0790",
+    "address": "No-(32), Groud Floor, Awba Street, Kyauk Myaung Gyi Ward, Tamwe Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8008603763784,
+    "lng": 96.1769633933586,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0791",
+    "stationCode": "G0791",
+    "address": "No-(1), Gandamar Street, (8) Ward, Mayangone Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8608826013722,
+    "lng": 96.1571123220964,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0793",
+    "stationCode": "G0793",
+    "address": "Hiway Complex Housing, Building (A), Room-008(B), Hninsi Street, (6) Ward, Kamaryut Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8199026948401,
+    "lng": 96.1233198421945,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0794",
+    "stationCode": "G0794",
+    "address": "No-(117/A), Corner of East Gyo Gone Road and Maharthukhitar (1)St, East Gyo Gone Ward, Insein Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8808773640407,
+    "lng": 96.11741206708,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0795",
+    "stationCode": "G0795",
+    "address": "No-(36), Ground Floor, Thadipahtan Road, Kyar Kwat Thit  Ward, Tamwe Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8059544883162,
+    "lng": 96.1780163644179,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0796",
+    "stationCode": "G0796",
+    "address": "Hiway Complex Housing, Building (C), Room-(008), Hninsi Street, (6) Ward, Kamaryut Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8206705705768,
+    "lng": 96.1240950429464,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0797",
+    "stationCode": "G0797",
+    "address": "N0-(16), Baho Road, (13) Ward, Hlaing Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8491760188531,
+    "lng": 96.1180295556728,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0798",
+    "stationCode": "G0798",
+    "address": "N0-(67), Ground Floor, Eiksarthaya Street, Pathein Nyunt Ward, Tamwe Tsp, Yangon",
+    "contact": "",
+    "lat": 16.805329262444,
+    "lng": 96.1801227843926,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0800",
+    "stationCode": "G0800",
+    "address": "N0-(37), Thida Street, Kyauk Myaung Kyi Ward, Tamwe Tsp, YGN",
+    "contact": "",
+    "lat": 16.7997681215835,
+    "lng": 96.1780109825544,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0801",
+    "stationCode": "G0801",
+    "address": "N0-(57), Yangon-Insein Road, (12) Ward, Hlaing Tsp, YGN",
+    "contact": "",
+    "lat": 16.8524462551479,
+    "lng": 96.1243821733107,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0802",
+    "stationCode": "G0802",
+    "address": "No.(57), Bo Thura Road, West of Zawgyi ward, Kyee Myin Daing Township, Yangon",
+    "contact": "",
+    "lat": 16.807237,
+    "lng": 96.123809,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0803",
+    "stationCode": "G0803",
+    "address": "No.(281), Ground Floor, Ahnawyahtar Road, Btw (27)&(28) street, (4) Ward, Panbaedan Township, Yangon",
+    "contact": "",
+    "lat": 16.7769273564838,
+    "lng": 96.1551840547388,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0805",
+    "stationCode": "G0805",
+    "address": "No (31/A) , Corner of Lower Baho Road and Kan Lay Su Street, (2) ward, Mayangone Township, Yangon",
+    "contact": "",
+    "lat": 16.8632406753617,
+    "lng": 96.1146051138116,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0806",
+    "stationCode": "G0806",
+    "address": "No (44) , Ground Floor, Kyee Myin Daing Strand Road, Thayattaw North Ward, Kyee Myin Daing Township,Yangon",
+    "contact": "",
+    "lat": 16.8195864,
+    "lng": 96.1218286,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0807",
+    "stationCode": "G0807",
+    "address": "No-(383) , Maydarwi Road, Za Myin Zwe Ward, North Okkalapa Township, Yangon",
+    "contact": "",
+    "lat": 16.9154007497684,
+    "lng": 96.1603458402071,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0808",
+    "stationCode": "G0808",
+    "address": "(7)Mile Comdominium-No-(29), Tharlarwaddy Street, (7) Ward, Mayangone Township, Yangon",
+    "contact": "",
+    "lat": 16.855792662655,
+    "lng": 96.1419525125949,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0809",
+    "stationCode": "G0809",
+    "address": "Nila Yoma Petrol - Upaing No (79/Ga)+40/Ha), Insein Road, West Gyo Gone Ward, Insein Township, Yangon",
+    "contact": "",
+    "lat": 16.8722734031587,
+    "lng": 96.118016795925,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0810",
+    "stationCode": "G0810",
+    "address": "Nila Yoma Petrol - No (1/A), Aung Zayay Road, (26) Ward, South Dagon Township, Yangon",
+    "contact": "",
+    "lat": 16.8552830306936,
+    "lng": 96.2231673757681,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0811",
+    "stationCode": "G0811",
+    "address": "Nila Yoma Petrol - No (54), Yangon-Pyay Road, Htauk Kyaunt, Mingalardon Township, Yangon",
+    "contact": "",
+    "lat": 17.0297702272736,
+    "lng": 96.1320867947872,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0812",
+    "stationCode": "G0812",
+    "address": "No (918/A), Ground Floor, Corner of Bayint Naung & Thakhin Phoe Hla Gyi Road, North Dagon Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8901782467214,
+    "lng": 96.1829365504175,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0813",
+    "stationCode": "G0813",
+    "address": "No(22), Mahar Bawga Street, Myaynigone South Ward, Sanchaung Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8031838848111,
+    "lng": 96.1386771438032,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0814",
+    "stationCode": "G0814",
+    "address": "Building(B), Room(A), Ground Floor, Yangon-Insein Road, (3) Ward, Mayangone Tsp, Yangon",
+    "contact": "",
+    "lat": 16.861150708525,
+    "lng": 96.122357001416,
+    "active": true
+  },
+
+
+  {
+    "name": "g&g Convenience Store @ G0821",
+    "stationCode": "G0821",
+    "address": "No-(63), Ground Floor, Ma Kyee Kyee Street, Kyun North Ward, Sanchaung Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8089927746291,
+    "lng": 96.1311219793934,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0822",
+    "stationCode": "G0822",
+    "address": "No-(109), Ground Floor, Ahnawyahtar Road, Btw (37)&(38)Street, (5) Ward, Kyauktada Tsp, Yangon",
+    "contact": "",
+    "lat": 16.7766436419003,
+    "lng": 96.1624490834962,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0823",
+    "stationCode": "G0823",
+    "address": "No-(61), Ground Floor, Yae Kyaw Road, ( 7 ) Ward, Pazundaung Tsp, Yangon",
+    "contact": "",
+    "lat": 16.7813588035793,
+    "lng": 96.1722714569937,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0824",
+    "stationCode": "G0824",
+    "address": "No-(14), Star City Compound, YOMA Head Office, Kyaik Khauk Pagoda Road, Thanlyin Tsp,  Yangon",
+    "contact": "",
+    "lat": 16.7707344434807,
+    "lng": 96.227465398016,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0825",
+    "stationCode": "G0825",
+    "address": "Danyin Gone Wholesale-No-(101), Building-(B 17/A), Ground Floor, Corner Of Shwe Pyi Thar Bridge Road and Pearl Street, Danyin Gone Ward, Insein Tsp, Yangon",
+    "contact": "",
+    "lat": 16.9331384721064,
+    "lng": 96.0908601231454,
+    "active": true
+  },
+ 
+  {
+    "name": "g&g Convenience Store @ G0831",
+    "stationCode": "G0831",
+    "address": "No (19/B), Gloor Floor, Thiri Street, Sanchaung Tsp, YGN",
+    "contact": "",
+    "lat": 16.8019089,
+    "lng": 96.1293183,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0833",
+    "stationCode": "G0833",
+    "address": "No-(70), Ground Floor, Aung Theik Hti Road, (3)Ward, Mayangone Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8713924737958,
+    "lng": 96.1244038955498,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0834",
+    "stationCode": "G0834",
+    "address": "No-(709), Pyay Road, Saw Pwar Gyi Gone Ward, Insin Tsp, Yangon",
+    "contact": "",
+    "lat": 16.888730241636,
+    "lng": 96.1298914790628,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0836",
+    "stationCode": "G0836",
+    "address": "No-(449), Padonmar Street, Shwe Kyar Pin Ward, Zabuthiri Tsp, Nay Pyi Taw",
+    "contact": "",
+    "lat": 19.7258232,
+    "lng": 96.1495616,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0838",
+    "stationCode": "G0838",
+    "address": "Royal Maung Burma Condo- No-(15-12/A), Ground Floor, Tower(A), Type (A), Commercial Room – D, Dhamayone Street, (11)Ward, Hlaing Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8428443478274,
+    "lng": 96.1342568952632,
+    "active": true
+  },
+
+
+  {
+    "name": "g&g Convenience Store @ G0853",
+    "stationCode": "G0853",
+    "address": "No.(976/B), Satt Mu Road, (12) Ward, Shwe Pyi Thar Township, Yangon",
+    "contact": "",
+    "lat": 16.9457856025904,
+    "lng": 96.088568,
+    "active": true
+  },
+  
+  {
+    "name": "g&g Convenience Store @ G0871",
+    "stationCode": "G0871",
+    "address": "No.(112), Ground Floor, Lanmadaw Road, Alal Pine Ward, Kyauk Tan Tsp, Yangon.",
+    "contact": "",
+    "lat": 16.6339095487609,
+    "lng": 96.3267402430417,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0876",
+    "stationCode": "G0876",
+    "address": "No. (163/1), Corner of Thunandar Road and Thudhama Road, North Okkalapa Tsp, Yangon.",
+    "contact": "",
+    "lat": 16.9032775245792,
+    "lng": 96.1655205929234,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0883",
+    "stationCode": "G0883",
+    "address": "No. (15), Yangon- Pathein Road, Mya Sein Yaung Housing, In Front Of Dagon Ayyar Hiway Bus Station Hlaing Thar Yar Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8772925911683,
+    "lng": 96.0233873602921,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0886",
+    "stationCode": "G0886",
+    "address": "No. (38), (A/B-1), Ground Floor, Lay Daungkan Road, (Sa/Ka) Ward, Thingangyun Tsp, Yangon.",
+    "contact": "",
+    "lat": 16.8296796557596,
+    "lng": 96.1908527288356,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0018",
+    "stationCode": "G0018",
+    "address": "No.(33/A), Than St, Malze kone St,(7) Ward, Hlaing Township",
+    "contact": "",
+    "lat": 16.845271,
+    "lng": 96.121523,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0039",
+    "stationCode": "G0039",
+    "address": "No.(59-A), Daw Thein Tin Street, Kantawlay West Ward, Mingalar Taung Nyunt Township. Yangon",
+    "contact": "",
+    "lat": 16.789032,
+    "lng": 96.164596,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0098",
+    "stationCode": "G0098",
+    "address": "No-(175), Corner Of Baho Road & Kyaik Latt  Street , Sanchaung Township, Yangon.",
+    "contact": "",
+    "lat": 16.806528,
+    "lng": 96.129713,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0099",
+    "stationCode": "G0099",
+    "address": "No.148, Kyeik Kyauk Pagoda Road, Thanlyin Township",
+    "contact": "",
+    "lat": 16.728555,
+    "lng": 96.273999,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0149",
+    "stationCode": "G0149",
+    "address": "No.137,Room-001, 26th Street, Pabedan Township, Yangon",
+    "contact": "",
+    "lat": 16.776778,
+    "lng": 96.154179,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0157",
+    "stationCode": "G0157",
+    "address": "No.753, Thumana Street, (2)South Ward, Tharkayta Township",
+    "contact": "",
+    "lat": 16.789459,
+    "lng": 96.192949,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0176",
+    "stationCode": "G0176",
+    "address": "No(693/701)No-16, Kan Nar Street, Between Kon Zay Tan & 27st, 3-Ward, Pabedan,Township",
+    "contact": "",
+    "lat": 16.771572,
+    "lng": 96.154701,
+    "active": true
+  },
+
+
+  {
+    "name": "g&g Convenience Store @ G0339",
+    "stationCode": "G0339",
+    "address": "No.(002), Hlaedan Zay St (near the top of 7-St) 3Ward, Kamaryut Township, Yangon",
+    "contact": "",
+    "lat": 16.828502,
+    "lng": 96.127176,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0369",
+    "stationCode": "G0369",
+    "address": "No.6,  Lay Daunt Kan Road, Thingangyun, Yangon",
+    "contact": "",
+    "lat": 16.831246,
+    "lng": 96.192964,
+    "active": true
+  },
+ 
+  {
+    "name": "g&g Convenience Store @ G0391",
+    "stationCode": "G0391",
+    "address": "No(2), Main Road, Ywar Thar Gyi, South Dagon Township. University of Economics (Yangon)",
+    "contact": "",
+    "lat": 16.927802,
+    "lng": 96.268894,
+    "active": true
+  },
+ 
+  {
+    "name": "g&g Convenience Store @ G0425",
+    "stationCode": "G0425",
+    "address": "No(48), (118)Road, Mingalartaungnyut Township, Yangpon, Satyoune",
+    "contact": "",
+    "lat": 16.791704,
+    "lng": 96.174602,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0430",
+    "stationCode": "G0430",
+    "address": "No.1 / Corner of Innwa st & Botayza st , (17) Wards,  North Okkalapa Township.",
+    "contact": "",
+    "lat": 16.935508,
+    "lng": 96.176654,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0436",
+    "stationCode": "G0436",
+    "address": "No.(781) Ground Floor, (RightSideRoom),(6)Ward, 13St, Lanmadaw Township",
+    "contact": "",
+    "lat": 16.774807,
+    "lng": 96.145393,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0438",
+    "stationCode": "G0438",
+    "address": "Yangon Innovation Center",
+    "contact": "",
+    "lat": 16.769114,
+    "lng": 96.160138,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0440F",
+    "stationCode": "G0440F",
+    "address": "NO 45 , Corner of Shwe Gone Dine St and Bo La Yaung St , Bo Sein Mhan Ward , Bahan Township",
+    "contact": "",
+    "lat": 16.811634,
+    "lng": 96.169778,
+    "active": true
+  },
+ 
+  {
+    "name": "g&g Convenience Store @ G0451",
+    "stationCode": "G0451",
+    "address": "Just Factory Compound, DC, Tharkay Ta Township, Yangon",
+    "contact": "",
+    "lat": 16.806228,
+    "lng": 96.218756,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0455",
+    "stationCode": "G0455",
+    "address": "No(1/B),(552/C) Quarter, Oakpho Village, No(4) Mail Road, Shwe Pyi Thar",
+    "contact": "",
+    "lat": 16.994072,
+    "lng": 96.092018,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0459",
+    "stationCode": "G0459",
+    "address": "No(117,119) GroundFloor(A), Sin Oh Tan Street,(MiddleBlock), Latha Township, Yangon",
+    "contact": "",
+    "lat": 16.77614,
+    "lng": 96.14891,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0889",
+    "stationCode": "G0889",
+    "address": "No. (25), Ground Floor, Than Thumar Road, Ngamoe Yeik Ward, Thingangyun Township, Yangon",
+    "contact": "",
+    "lat": 16.8458076373892,
+    "lng": 96.2011535423288,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0394F",
+    "stationCode": "G0394F",
+    "address": "The Leaf Condo, No.204, Dhama Thuka Kyaung Street, Hlaing Township, Yangon",
+    "contact": "",
+    "lat": 16.847695,
+    "lng": 96.119978,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0464",
+    "stationCode": "G0464",
+    "address": "Thukha Gabar Hospital, Sanyeik Nyan, KamaryutTownship, Yangon",
+    "contact": "",
+    "lat": 16.8330899257434,
+    "lng": 96.1305626816756,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0466",
+    "stationCode": "G0466",
+    "address": "No.47, Ground floor, Kyun Taw Street, South Ward, Sanchaung Township, Yangon",
+    "contact": "",
+    "lat": 16.80632,
+    "lng": 96.13252,
+    "active": true
+  },
+ 
+  {
+    "name": "g&g Convenience Store @ G0471",
+    "stationCode": "G0471",
+    "address": "No(200), Maharbandoola Road, Pazuntaung Township, Yangon",
+    "contact": "",
+    "lat": 16.77413,
+    "lng": 96.1714,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0473",
+    "stationCode": "G0473",
+    "address": "No(76/A), Bogyoke Street, 5/6Ward, Shwe Pyi Thar Township, Yangon",
+    "contact": "",
+    "lat": 16.956233,
+    "lng": 96.077934,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0475",
+    "stationCode": "G0475",
+    "address": "No(31), Pyay Road, (4)Ward, Hmawbi Township, Yangon",
+    "contact": "",
+    "lat": 17.1008765,
+    "lng": 96.0465169,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0478",
+    "stationCode": "G0478",
+    "address": "No(65), Ground Floor, Oakkyin Train Station Street, (16)Ward, Hlaing Township, Yangon",
+    "contact": "",
+    "lat": 16.8558044,
+    "lng": 96.1223536,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0481",
+    "stationCode": "G0481",
+    "address": "YMG Hub, Ah Lan Pya Pagoda Road, Yaw Min Gyi Road, Dagon Township, Yangon",
+    "contact": "",
+    "lat": 16.7819,
+    "lng": 96.15842,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0483",
+    "stationCode": "G0483",
+    "address": "Yangon-Mandalay Highway Road, Thiri Mingalar Quarter, Meikhtila Township",
+    "contact": "",
+    "lat": 20.883539,
+    "lng": 95.860807,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0484",
+    "stationCode": "G0484",
+    "address": "No(18), Myay Nu Street, Maha Myaing, Myaynigone, Sanchaung Township, Yangon",
+    "contact": "",
+    "lat": 16.80813,
+    "lng": 96.13704,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0485",
+    "stationCode": "G0485",
+    "address": "No(570/571), Corner of 6th Street and Thamine Train Station Road,(1)Ward, Mayangone Township, Yangon",
+    "contact": "",
+    "lat": 16.86012,
+    "lng": 96.11243,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0486",
+    "stationCode": "G0486",
+    "address": "No(26), Hledan Street, (MiddleBlock),(5)Ward, Lanmadaw Township, Yangon",
+    "contact": "",
+    "lat": 16.77571,
+    "lng": 96.14355,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0488",
+    "stationCode": "G0488",
+    "address": "No.119-131, University Avenue Road,(10)Ward, Kamaryut Township, Yangon (YUFL)",
+    "contact": "",
+    "lat": 16.8247535082548,
+    "lng": 96.1415702551546,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0489",
+    "stationCode": "G0489",
+    "address": "No(502), Maydharwi Road,(Salone)Ward, North Oakkalapa Township",
+    "contact": "",
+    "lat": 16.90111,
+    "lng": 96.15943,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0490",
+    "stationCode": "G0490",
+    "address": "No.6, Cornerof Tayoke Kyaung Street & Zay Ya Wadi Street(BahoRoad), Than Tadar Ward, Shanchaung Township, Yangon",
+    "contact": "",
+    "lat": 16.81045,
+    "lng": 96.1267,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0491",
+    "stationCode": "G0491",
+    "address": "No.2/NyarNaStreet, AKarit Ward, Htauk Kyant, Minglardone",
+    "contact": "",
+    "lat": 17.04603,
+    "lng": 96.13797,
+    "active": true
+  },
+ 
+  {
+    "name": "g&g Convenience Store @ G0494",
+    "stationCode": "G0494",
+    "address": "No.282, KyiteKaSan Road, Ma Hlwa Kone Htay KywalWard, TarmweTownship, Yangon",
+    "contact": "",
+    "lat": 16.80734,
+    "lng": 96.17629,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0495",
+    "stationCode": "G0495",
+    "address": "YP Petrol Station, No(1/A)Myay Tine(17) Ward, Dagon Myo Thit(South), Yangon",
+    "contact": "",
+    "lat": 16.863382,
+    "lng": 96.226933,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0496",
+    "stationCode": "G0496",
+    "address": "YP Petrol Station, Bago River Road, Oh Eain Bus Stop, Dagon Seikkan",
+    "contact": "",
+    "lat": 16.831308,
+    "lng": 96.267389,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0498",
+    "stationCode": "G0498",
+    "address": "No(174), Anawrahta Road,14/2 Ward, Kyauktada Township",
+    "contact": "",
+    "lat": 16.776917,
+    "lng": 96.159399,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0505",
+    "stationCode": "G0505",
+    "address": "No.2(A), Pyay Road, Oae Tan Ward, Taik Kyi Township, Yangon",
+    "contact": "",
+    "lat": 17.3125228,
+    "lng": 95.9647349,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0506",
+    "stationCode": "G0506",
+    "address": "No.72, Bayint Naung Road, Han Sar Yeik Mon Housing, in front of Sin Ma Lite Dock Compound and beside of Dock Staffs Housing, KamayutTownship, Yangon",
+    "contact": "",
+    "lat": 16.8254,
+    "lng": 96.12331,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0508",
+    "stationCode": "G0508",
+    "address": "No.97, Ground Floor, Anawrahta Road, Corner of Anawrahta road and 52Street,(1)Ward, Pazuntaung Township, Yangon",
+    "contact": "",
+    "lat": 16.77631,
+    "lng": 96.17207,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0510",
+    "stationCode": "G0510",
+    "address": "MyayKwatAhMhat4/kha, Bo Aung Kyaw Road, Myay Tine Ward (ThaKaMa-7), No14, Hlaing Thar Yar (West)Township,Yangon",
+    "contact": "",
+    "lat": 16.8807,
+    "lng": 96.05059,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0511",
+    "stationCode": "G0511",
+    "address": "No.66,UYaeKhalStreet,(2)Ward, MayangonTownship, Yangon",
+    "contact": "",
+    "lat": 16.86786,
+    "lng": 96.1197,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0512",
+    "stationCode": "G0512",
+    "address": "No.1, Ground Flor, Cornerof U Shwe Gwun Street and Waik Zar Street,(7)Ward,Yangon",
+    "contact": "",
+    "lat": 16.78066,
+    "lng": 96.17237,
+    "active": true
+  },
+  {
+    "name": "G&G Convenience Store @ G0389",
+    "stationCode": "G0389",
+    "address": "No(85), GeneralNayWin Street, middle Quarter, Thanlyin",
+    "contact": "",
+    "lat": 16.777328,
+    "lng": 96.247503,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0708",
+    "stationCode": "G0708",
+    "address": "No.14/1(A),Thanthumar Road, Thuwana, 29 ward, Thingangyun Township, Yangon",
+    "contact": "",
+    "lat": 16.8204293089319,
+    "lng": 96.2004482282286,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0719",
+    "stationCode": "G0719",
+    "address": "Pun Hlaing Hospital",
+    "contact": "",
+    "lat": 16.8410026329758,
+    "lng": 96.089063078575,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0756",
+    "stationCode": "G0756",
+    "address": "No-(12/A), Ground Floor, Insein Road,(3)Ward, Mayangone Township, Yangon",
+    "contact": "",
+    "lat": 16.8635482897876,
+    "lng": 96.1216628170187,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0768",
+    "stationCode": "G0768",
+    "address": "No-(13-14/B), Ground Floor, Shukhinthar Road, Near Kamarkyi Bridge,(8)Ward, Thaketa Township, Yangon",
+    "contact": "",
+    "lat": 16.8123417441729,
+    "lng": 96.216839128091,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0514",
+    "stationCode": "G0514",
+    "address": "No.742, Bayint Naung Road, 18Ward, Shwe Pyi Thar Township, Yangon",
+    "contact": "",
+    "lat": 16.94572,
+    "lng": 96.072924,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0517",
+    "stationCode": "G0517",
+    "address": "No(48), Ground Floor, Mae Zi Gone Street,(8)Ward, Hlaing Township, Yangon.",
+    "contact": "",
+    "lat": 16.84013,
+    "lng": 96.12238,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0518",
+    "stationCode": "G0518",
+    "address": "No7, Pyay Rd, Hlaing Township, Yangon",
+    "contact": "",
+    "lat": 16.8410748513969,
+    "lng": 96.1348752907586,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0520",
+    "stationCode": "G0520",
+    "address": "No.454, Merchant Road, Middle Block, 8Ward, Botahtaung Township Yangon",
+    "contact": "",
+    "lat": 16.77181,
+    "lng": 96.16586,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0521",
+    "stationCode": "G0521",
+    "address": "No.548, Ground Floor, Damayone Street, 11Ward, Hlaing Township, Yangon",
+    "contact": "",
+    "lat": 16.842451,
+    "lng": 96.132637,
+    "active": true
+  },
+  
+  {
+    "name": "g&g Convenience Store @ G0524",
+    "stationCode": "G0524",
+    "address": "No.21, Anawrahta Road,(5)Ward, Lanmadaw Township, Yangon.",
+    "contact": "",
+    "lat": 16.777512,
+    "lng": 96.144134,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0526",
+    "stationCode": "G0526",
+    "address": "No(23/A), East Horse Race Rd, Tamwe Gyi(Kha) Ward, Tamwe",
+    "contact": "",
+    "lat": 16.81339,
+    "lng": 96.17185,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0529",
+    "stationCode": "G0529",
+    "address": "No14/8(kha), KyanSitTharRd, 15Ward, Hlaing Thar Yar",
+    "contact": "",
+    "lat": 16.89116,
+    "lng": 96.06298,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0530",
+    "stationCode": "G0530",
+    "address": "No(151/1139), 3Ward, Thae Taw-Wan Twin Rd, Wan Twin",
+    "contact": "",
+    "lat": 21.0949496,
+    "lng": 96.0376073,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0531",
+    "stationCode": "G0531",
+    "address": "No139, Kyun Taw Rd, Moke Latt Saung Kone(South) Ward, San Chaung",
+    "contact": "",
+    "lat": 16.810708,
+    "lng": 96.132497,
+    "active": true
+  },
+ 
+  {
+    "name": "g&g Convenience Store @ G0534",
+    "stationCode": "G0534",
+    "address": "No85, Anawrahtar Rd,(4)ward, Latha Township, Yangon",
+    "contact": "",
+    "lat": 16.77705,
+    "lng": 96.150187,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0535",
+    "stationCode": "G0535",
+    "address": "No(2), Ground Floor, Tamwe Gyi(Kha) ward, Tamwe",
+    "contact": "",
+    "lat": 16.812123,
+    "lng": 96.175017,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0537",
+    "stationCode": "G0537",
+    "address": "No1039A, East Min Rd, Aung Mingalar Ward, Hlegu",
+    "contact": "",
+    "lat": 17.10181,
+    "lng": 96.23129,
+    "active": true
+  },
+  
+  {
+    "name": "g&g Convenience Store @ G0546",
+    "stationCode": "G0546",
+    "address": "Zoological Garden Road, Mingalar Taung Nyunt Township, Yangon.",
+    "contact": "",
+    "lat": 16.79133,
+    "lng": 96.15891,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0547",
+    "stationCode": "G0547",
+    "address": "No(833), Cornerof 9th Street and Mahar Bandula Road, (4)Ward, Lanmadaw Township, Yangon",
+    "contact": "",
+    "lat": 16.774744,
+    "lng": 96.142538,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0548",
+    "stationCode": "G0548",
+    "address": "No(121), Ground Floor, Phone Gyi Road, Lower Block, Lanmadaw Township, Yangon",
+    "contact": "",
+    "lat": 16.77782,
+    "lng": 96.14488,
+    "active": true
+  },
+  
+  {
+    "name": "g&g Convenience Store @ G0553",
+    "stationCode": "G0553",
+    "address": "No(A-14), 2Story, Building, Corner of Kyaik Khauk Pagoda and Thu Kha Street, Ah Mhu Htan Ward, Estate(10), Thanlyin",
+    "contact": "",
+    "lat": 16.746925,
+    "lng": 96.264444,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0846",
+    "stationCode": "G0846",
+    "address": "No-(93)(Ground Floor), Bothura Road, West Zay Gyi Ward, Kyee Myin Daing Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8090270849295,
+    "lng": 96.1239111865071,
+    "active": true
+  },
+  
+  {
+    "name": "g&g Convenience Store @ G0852",
+    "stationCode": "G0852",
+    "address": "No-(507), Ground Floor, Bayint Naung Road, (9) Ward, Shwe Pyi Thar Tsp, Yangon",
+    "contact": "",
+    "lat": 16.9799706371588,
+    "lng": 96.077126152445,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0854",
+    "stationCode": "G0854",
+    "address": "No.(42/B), Ground Floor, Pantra Street, Pha Yar Gyi Ward, Dagon Township, Yangon",
+    "contact": "",
+    "lat": 16.7858102688531,
+    "lng": 96.1519596931434,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0855",
+    "stationCode": "G0855",
+    "address": "No.(82), Ground Floor, Latha Road, (5) Ward, Latha Township, Yangon",
+    "contact": "",
+    "lat": 16.7742573302734,
+    "lng": 96.1504669385175,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0856",
+    "stationCode": "G0856",
+    "address": "No.(994), Ground Floor, Thu Mingalar Road, (16/1) Ward, Thingangyun Township, Yangon",
+    "contact": "",
+    "lat": 16.8357288118507,
+    "lng": 96.186346132512,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0857",
+    "stationCode": "G0857",
+    "address": "Emeral Bay Condominium- No-(15), Tower-(1), Room No-(1-07),Shukhinthar Myopat Road, Thaketa Township",
+    "contact": "",
+    "lat": 16.7833278130466,
+    "lng": 96.2074211391554,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0858",
+    "stationCode": "G0858",
+    "address": "No-(422),Ground Floor, Thein Phyu Road, Phoe Myay Ward, Mingalar Taung Nyunt Township, Yangon",
+    "contact": "",
+    "lat": 16.7845267070997,
+    "lng": 96.1676355423296,
+    "active": true
+  },
+ 
+  {
+    "name": "g&g Convenience Store @ G0863",
+    "stationCode": "G0863",
+    "address": "No.(4/B), Wai Bargi  Road, (Nya) Ward, North Okkalapa Township, Yangon",
+    "contact": "",
+    "lat": 16.9191957641981,
+    "lng": 96.1637372056219,
+    "active": true
+  },
+  
+  {
+    "name": "g&g Convenience Store @ G0873",
+    "stationCode": "G0873",
+    "address": "No.(20), Ground Floor+ First Floor, Mingalar Street, (San/North) Ward, Sanchaung Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8034629563332,
+    "lng": 96.1310751018491,
+    "active": true
+  },
+ 
+  {
+    "name": "g&g Convenience Store @ G0875",
+    "stationCode": "G0875",
+    "address": "NO. (153) (Ground Floor), (46th ) Street, (10) Ward , Botahtaung Tsp, Yangon",
+    "contact": "",
+    "lat": 16.7783539605165,
+    "lng": 96.1684338686205,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0877",
+    "stationCode": "G0877",
+    "address": "No. (4) Main Road, Near Thardukan Industrial, Shwe Pyi Thar Tsp, Yangon",
+    "contact": "",
+    "lat": 16.9805719405294,
+    "lng": 96.0931921174621,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0880",
+    "stationCode": "G0880",
+    "address": "No. (301/304), Ground Floor, Merchant Luxury Condominium, Merchant Road, Botahtaung Tsp, Yangon",
+    "contact": "",
+    "lat": 16.7716350236254,
+    "lng": 96.1711915724165,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0882",
+    "stationCode": "G0882",
+    "address": "No. (62), Ground Floor, Corner of Hledan Road and (50) Feet Street. (3) Ward, Kamaryut Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8267066508557,
+    "lng": 96.1279835098907,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0884",
+    "stationCode": "G0884",
+    "address": "No. (523), Ground Floor, Mahar Bandula Road, Btw (27) & (28) Street, (3) Ward, Panbaedan Tsp, Yangon",
+    "contact": "",
+    "lat": 16.7744152093261,
+    "lng": 96.1552858310014,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0887",
+    "stationCode": "G0887",
+    "address": "No. (75/B), Ground Floor, Bo Yar Nyunt Street, Yaw Min Gyi Ward, Dagon Tsp, Yangon",
+    "contact": "",
+    "lat": 16.7854110218096,
+    "lng": 96.155081607847,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0888",
+    "stationCode": "G0888",
+    "address": "No. (81), Pyay Road, Near Hmawbi Tollgate, Thaday Pin Ward, Mingalardon Tsp, Yangon",
+    "contact": "",
+    "lat": 17.0722784341736,
+    "lng": 96.1105020677664,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0892",
+    "stationCode": "G0892",
+    "address": "No. (9), Ground Floor, Kyun Taw Road, Wai Luwun North Ward, San Chaung Tsp, Yangon",
+    "contact": "",
+    "lat": 16.8140709718144,
+    "lng": 96.1308598134932,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0554",
+    "stationCode": "G0554",
+    "address": "No(267), RC Ground Floor (3 story Building), Pyay Road, 5 Ward, Mayangone Township, Yangon.",
+    "contact": "",
+    "lat": 16.875467,
+    "lng": 96.138925,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0555",
+    "stationCode": "G0555",
+    "address": "Corner of Yangon-Pyay Road & No.4 Road, Hmawbi Township, Yangon.",
+    "contact": "",
+    "lat": 17.10492,
+    "lng": 96.05131,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0556",
+    "stationCode": "G0556",
+    "address": "Building -24, No-001, Padauk Street, 94 Ward, Yuzana Garden City, Dagon Seikkan Township, Yangon.",
+    "contact": "",
+    "lat": 16.827557,
+    "lng": 96.267103,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0558",
+    "stationCode": "G0558",
+    "address": "No(67), ThanatPin Road, Hnin Thar Kone (19) Ward, Bago Township.",
+    "contact": "",
+    "lat": 17.33454,
+    "lng": 96.50597,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0559",
+    "stationCode": "G0559",
+    "address": "No(237/E),ShuKinTharMyoPatRoad&NeartoThanlyinChinKatStreet,(10/South)Ward,TharkaytaTownship,Yangon.",
+    "contact": "",
+    "lat": 16.79961,
+    "lng": 96.22284,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0562",
+    "stationCode": "G0562",
+    "address": "No (262,/KaGroundFloor), Upper Pansodan Block, (4) Ward, Kyauktada Township,Yangon.",
+    "contact": "",
+    "lat": 16.7777619589171,
+    "lng": 96.1619827711794,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0560",
+    "stationCode": "G0560",
+    "address": "No(23),BahoRoad,AungChanTharWard,SanchaungTownship,Yangon",
+    "contact": "",
+    "lat": 16.7988104516208,
+    "lng": 96.1306159396244,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0564",
+    "stationCode": "G0564",
+    "address": "No(39),BuildingB-1,GroundFloor,ThiriStreet,2ndWard,HlaingTownship,Yangon",
+    "contact": "",
+    "lat": 16.8355184319326,
+    "lng": 96.1208832782901,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0565",
+    "stationCode": "G0565",
+    "address": "(No246,247),UShweMhanStreet,Wai/NorthWard,SanchaungTownship,Yangon",
+    "contact": "",
+    "lat": 16.8132885776837,
+    "lng": 96.1294557932878,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0566",
+    "stationCode": "G0566",
+    "address": "No(45),AungMingalarStreet,KyaukMyaungGyiWard,TamweTownship,Yangon",
+    "contact": "",
+    "lat": 16.7984479365487,
+    "lng": 96.1785947621608,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0567",
+    "stationCode": "G0567",
+    "address": "No(532,C/B),CornerofKyaungGyiStreetandAungSiGoneRoad,ThingangyungyiWard,MingalardonTownship,Yangon",
+    "contact": "",
+    "lat": 16.962688313115,
+    "lng": 96.1485637108162,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0568",
+    "stationCode": "G0568",
+    "address": "OkKyaungLn,(13)Ward,HlaingTownship,Yangon",
+    "contact": "",
+    "lat": 16.8525090332352,
+    "lng": 96.1192706257872,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0569",
+    "stationCode": "G0569",
+    "address": "Yone Gyi Street,OhBo Ward, Kyee Myindaing Township,Yangon",
+    "contact": "",
+    "lat": 16.8051045861187,
+    "lng": 96.1225924724234,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0570",
+    "stationCode": "G0570",
+    "address": "YamonnarRoad,3Ward,TharkaytaTownship,Yangon",
+    "contact": "",
+    "lat": 16.7802347225628,
+    "lng": 96.1909439070163,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0571",
+    "stationCode": "G0571",
+    "address": "Lower Mingalardon Road, Phawt Kan Quarter, Insein Township, Yangon.",
+    "contact": "",
+    "lat": 16.9091162063631,
+    "lng": 96.0974155323215,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0574",
+    "stationCode": "G0574",
+    "address": "Shwe Taung Tan Street, Lanmadaw Township, Yangon",
+    "contact": "",
+    "lat": 16.7767859651878,
+    "lng": 96.1462459261523,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0576",
+    "stationCode": "G0576",
+    "address": "N-001, Delta Plaza, Shwe Gone Daing Road, Middle Shwe Gone Dine Ward, Bahan Township.",
+    "contact": "",
+    "lat": 16.8101517687145,
+    "lng": 96.1595769490375,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0577",
+    "stationCode": "G0577",
+    "address": "No-577, Pyay Road, 2 Ward, Mhawbi Township.",
+    "contact": "",
+    "lat": 17.0994844819432,
+    "lng": 96.0390921384642,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0578",
+    "stationCode": "G0578",
+    "address": "No-52, Own taw Street, Ywarbae Ward, Pyay Township.",
+    "contact": "",
+    "lat": 18.824699,
+    "lng": 95.227116,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0579",
+    "stationCode": "G0579",
+    "address": "No-20, YGN-MGY Road, 6 Ward, Bago Township.",
+    "contact": "",
+    "lat": 17.31079,
+    "lng": 96.46569,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0580",
+    "stationCode": "G0580",
+    "address": "No-438, Maydarwi Road, Ga Gyi Ward, North Okkalapa Township.",
+    "contact": "",
+    "lat": 16.8997972267525,
+    "lng": 96.1573807795162,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0583",
+    "stationCode": "G0583",
+    "address": "No2, Pan chaung Street, Mote Lat Saung Gone Ward, Sanchaung Township,Yangon.",
+    "contact": "",
+    "lat": 16.8099423758235,
+    "lng": 96.1309191514602,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0586",
+    "stationCode": "G0586",
+    "address": "No( 6/109), KhayaePin Rd, DanyinGone Ward, Insein",
+    "contact": "",
+    "lat": 16.9338120385829,
+    "lng": 96.1025776210188,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0584",
+    "stationCode": "G0584",
+    "address": "No-809, Zayar thu kha Road, Myittar Nyunt Ward, Tarmwe Township.",
+    "contact": "",
+    "lat": 16.8128903137241,
+    "lng": 96.1800423810383,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0587",
+    "stationCode": "G0587",
+    "address": "No(291),Ground Floor, Min Nandar Rd, Bamar Aye Ward,Dawbon",
+    "contact": "",
+    "lat": 16.8005550477759,
+    "lng": 96.196808079934,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0589",
+    "stationCode": "G0589",
+    "address": "No(10), Building B(1), Ground Floor, Banyar dala Rd, Banyar Dala housing, Bo Lane Aung Mingalar Ward, Tamwe",
+    "contact": "",
+    "lat": 16.7957104052432,
+    "lng": 96.1766660980255,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0591",
+    "stationCode": "G0591",
+    "address": "No (2), U Tun Nyein St, (10) ward, Mayangone. Township",
+    "contact": "",
+    "lat": 16.8501081528848,
+    "lng": 96.1512478940897,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0592",
+    "stationCode": "G0592",
+    "address": "No(19), Ground Floor, Wakema St, Sanchaung",
+    "contact": "",
+    "lat": 16.8067907088504,
+    "lng": 96.1277817907098,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0594",
+    "stationCode": "G0594",
+    "address": "No.(7), Marlar Myaing (5th) Street,16 Ward, Hlaing Township,Yangon.",
+    "contact": "",
+    "lat": 16.8580450014284,
+    "lng": 96.1195447908999,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0595",
+    "stationCode": "G0595",
+    "address": "No (1), KabarAye Pagoda Rd,Yankin",
+    "contact": "",
+    "lat": 16.8539292462581,
+    "lng": 96.1574405829085,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0596",
+    "stationCode": "G0596",
+    "address": "Landmark( 44),S hwe Pin Lone Housing, (16) ward, North Dagon",
+    "contact": "",
+    "lat": 16.8599095490523,
+    "lng": 96.2135438884842,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0597",
+    "stationCode": "G0597",
+    "address": "No.356/A, Ground Floor,  Corner of Wai Bar Gi Street and Nwe Thar Gi Street, 2nd Ward, Nokkalpa Township,Yangon.",
+    "contact": "",
+    "lat": 16.9137786681078,
+    "lng": 96.1542664680468,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0599",
+    "stationCode": "G0599",
+    "address": "Plot#33, Thilawa Port, Yangon South Division, Thida Myaing Road,Kyauk tan, Myanmar.",
+    "contact": "",
+    "lat": 16.6172178571281,
+    "lng": 96.2682191371711,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0601",
+    "stationCode": "G0601",
+    "address": "Building 110-No.2, Pyay Road, 4th Ward, Mayangone Township,Yangon.",
+    "contact": "",
+    "lat": 16.867878279525,
+    "lng": 96.1412086776944,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0602",
+    "stationCode": "G0602",
+    "address": "No.(Ah/29) Ground Floor, Yangon–Mandalay Highway Road, Aung Mingalar Ward, Hlegu Township, Yangon.",
+    "contact": "",
+    "lat": 17.1005570784259,
+    "lng": 96.2280527158346,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0603",
+    "stationCode": "G0603",
+    "address": "No.159/161, 29th Street, Middle Block, 7 Ward, Ground Floor, Pabedan Township, Yangon.",
+    "contact": "",
+    "lat": 16.7765959038505,
+    "lng": 96.1565916072007,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0604",
+    "stationCode": "G0604",
+    "address": "No.001, Building 57, Corner of Awaiyar Street and Thamardi Street, Myit Thar Nyunt Ward,TamweTownship,Yangon.",
+    "contact": "",
+    "lat": 16.8123834748734,
+    "lng": 96.1775015437481,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0605",
+    "stationCode": "G0605",
+    "address": "Building B3, Room 007, Hnin Si Street, Bo Lain Aung Mingalar Ward, Tamwe Township,Yangon.",
+    "contact": "",
+    "lat": 16.7953154766383,
+    "lng": 96.1767473424666,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0608",
+    "stationCode": "G0608",
+    "address": "Building 444/445, Room (5) (Ground Floor), (7) ward, Pabedan",
+    "contact": "",
+    "lat": 16.7788224952024,
+    "lng": 96.1561871291961,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0609",
+    "stationCode": "G0609",
+    "address": "No11/12, Bayint Naung Tower 2, Corner of Bayint Naung Rd & Hledan Rd,(4) ward, Kamaryut",
+    "contact": "",
+    "lat": 16.8224671786884,
+    "lng": 96.1234119003567,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0611",
+    "stationCode": "G0611",
+    "address": "No (204/Kha), Hlaing River Rd, Pauk Taw Ward, Insein",
+    "contact": "",
+    "lat": 16.8846521428711,
+    "lng": 96.096522077278,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0612",
+    "stationCode": "G0612",
+    "address": "No(305), Shin Saw Pu Rd, Shin Saw Pu Ward, Bago",
+    "contact": "",
+    "lat": 17.3363333626994,
+    "lng": 96.4930471517678,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0613",
+    "stationCode": "G0613",
+    "address": "No(93), 39 st (lowerblock), 8 ward, Kyauktada",
+    "contact": "",
+    "lat": 16.7722758,
+    "lng": 96.1633738,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0617",
+    "stationCode": "G0617",
+    "address": "No.356 A, Corner of Kabaraye Pagoda Road & Wireless 1st Street, 9th Ward, Mayangone Township,Yangon.",
+    "contact": "",
+    "lat": 16.8538798119535,
+    "lng": 96.15745370103,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0619",
+    "stationCode": "G0619",
+    "address": "No(648), Ground Floor, Mahar Bandoola Rd, (6) ward, Lathar",
+    "contact": "",
+    "lat": 16.7745274813596,
+    "lng": 96.1493924855936,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0620",
+    "stationCode": "G0620",
+    "address": "No(52), Mahar Bandula Park Rd, (2) ward, Kyauktada",
+    "contact": "",
+    "lat": 16.7711257409713,
+    "lng": 96.1602376398549,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0691",
+    "stationCode": "G0691",
+    "address": "No.008, Insein Street, 9 ward, Hlaing Township, Yangon.(HlaingBuutaYone Bus-stop)",
+    "contact": "",
+    "lat": 16.8380950363532,
+    "lng": 96.1272850182864,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0621",
+    "stationCode": "G0621",
+    "address": "No (363/GroundFloor D), Kyaikkasan Rd, TamweGyi (Kha) ward, Tamwe",
+    "contact": "",
+    "lat": 16.8112482000658,
+    "lng": 96.1763421557273,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0622",
+    "stationCode": "G0622",
+    "address": "No(800), Mahar Banduula Rd (LowerBlock), Between 12st and 13st, Lanmadaw",
+    "contact": "",
+    "lat": 16.7749707153589,
+    "lng": 96.1445105656165,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0623",
+    "stationCode": "G0623",
+    "address": "No(425), Bommar 9th st,(31) ward, North Okkalapa,",
+    "contact": "",
+    "lat": 16.9153163657485,
+    "lng": 96.1661578489208,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0631",
+    "stationCode": "G0631",
+    "address": "No-88, Ground Floor,16th St, Lanmadaw Township.",
+    "contact": "",
+    "lat": 16.7753578646241,
+    "lng": 96.1471814846936,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0633",
+    "stationCode": "G0633",
+    "address": "No-47, Pyin Ma Myaing Road, Hnin Si Kone Ka Ward,Thingangyun Township.",
+    "contact": "",
+    "lat": 16.8231136484842,
+    "lng": 96.1970388227096,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0634",
+    "stationCode": "G0634",
+    "address": "No-39, Yay Lal Pagoda Road, Western Quarter, Kyuaktan Township.",
+    "contact": "",
+    "lat": 16.6311209521545,
+    "lng": 96.3235763583284,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0635",
+    "stationCode": "G0635",
+    "address": "U Paing No - Nga/136, Ah Kwat No 4,YGN-MGY Road, Yedashe Township.",
+    "contact": "",
+    "lat": 19.157917725826,
+    "lng": 96.3463775674991,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0636",
+    "stationCode": "G0636",
+    "address": "No-118/B, Tha Mein Ba Yan Road, Tarmwegyi (Kha) Ward, Tarmwe Township.",
+    "contact": "",
+    "lat": 16.8115229524393,
+    "lng": 96.1720539536761,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0637",
+    "stationCode": "G0637",
+    "address": "No-54, 20th Street (Lower Block), 3 Ward, Latha Township.",
+    "contact": "",
+    "lat": 16.7737957314173,
+    "lng": 96.1498798548067,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0639",
+    "stationCode": "G0639",
+    "address": "No-1039 (A), Thamardi Road, 4 Ward, South Okkalapa Township",
+    "contact": "",
+    "lat": 16.8525312960865,
+    "lng": 96.174441363498,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0640",
+    "stationCode": "G0640",
+    "address": "No-1166/ Kha, Thumana Road, 2/South Ward, Tharkayta Township.",
+    "contact": "",
+    "lat": 16.7888265240122,
+    "lng": 96.1942377129972,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0641",
+    "stationCode": "G0641",
+    "address": "Yangon-Pyay Road, Myaung Ta Gar San Pya Village, Hmawbi Township.",
+    "contact": "",
+    "lat": 17.1004747487189,
+    "lng": 96.0399738812835,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0642",
+    "stationCode": "G0642",
+    "address": "No.82/Kha, Zin ga ma Road, Between Ah Naw Mar Street & Htu Par Yone Street, (2/Nouth) Ward, Tharkata Township.",
+    "contact": "",
+    "lat": 16.7940920495113,
+    "lng": 96.2001777147295,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0643",
+    "stationCode": "G0643",
+    "address": "No.96, Corner of Yadanar Street & Aung Chan Thar 4th Street, No(1) Ward, Myay Tine Ward, No74,  Kamaryut Townnship.",
+    "contact": "",
+    "lat": 16.8324044614043,
+    "lng": 96.1237160834723,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0644",
+    "stationCode": "G0644",
+    "address": "No.337, Ground Floor (Left),  Mahar Bandula Road, 8th Ward, Kyauk Ta Dar Township",
+    "contact": "",
+    "lat": 16.7740644962963,
+    "lng": 96.1638373479751,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0645",
+    "stationCode": "G0645",
+    "address": "No.(A9/B2), Thu Damar Street, Kyauk/South Ward, Tarmwe Township.",
+    "contact": "",
+    "lat": 16.8023858067907,
+    "lng": 96.1765107956113,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0646",
+    "stationCode": "G0646",
+    "address": "Shwe La Min Hospital, No.1254, 2 Ward, Thu Damar Road, North Okkalapa Township.",
+    "contact": "",
+    "lat": 16.8761437749809,
+    "lng": 96.1567086740222,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0647",
+    "stationCode": "G0647",
+    "address": "No.126,19th Street,(MiddleBlock) , 4 Ward, Latha  Township.",
+    "contact": "",
+    "lat": 16.7761525707192,
+    "lng": 96.1495794080284,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0648",
+    "stationCode": "G0648",
+    "address": "No(723), Kagyi Ward, Khay marthi Road, North Oakkalapa Township,Yangon.",
+    "contact": "",
+    "lat": 16.8979791020884,
+    "lng": 96.1553946992289,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0649",
+    "stationCode": "G0649",
+    "address": "No.371, Aung Tha Pyay Street, 3 Ward, Mayangone Township.",
+    "contact": "",
+    "lat": 16.8695571981711,
+    "lng": 96.1283068451428,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0650",
+    "stationCode": "G0650",
+    "address": "442/426, Corner of Strand Road & Botahtaung Pagoda Road, Room No.01/02-ICC, Botahtaung Township.",
+    "contact": "",
+    "lat": 16.7695480127959,
+    "lng": 96.1731019696564,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0652",
+    "stationCode": "G0652",
+    "address": "PSH7, Corner of Padauk Loop 2 and Padauk Lane 8, Padauk Commercial District, Padauk Garden Housing, Hlaing Thar Yar Township.",
+    "contact": "",
+    "lat": 16.8724251915285,
+    "lng": 96.0805184605824,
+    "active": true
+  },
+
+  {
+    "name": "g&g Convenience Store @ G0654",
+    "stationCode": "G0654",
+    "address": "No265, Bagayar Road, Myaynigone South Ward,  Sanchaung Township.",
+    "contact": "",
+    "lat": 16.8038874823641,
+    "lng": 96.1403852255056,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0656",
+    "stationCode": "G0656",
+    "address": "No-16, Mahar bandula Road, 2 Ward, Pazuntaung Township.",
+    "contact": "",
+    "lat": 16.7739641655839,
+    "lng": 96.17409265655,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0657",
+    "stationCode": "G0657",
+    "address": "No-270, Thudhamar Road, Hta Ward, North Okkalapa Township.",
+    "contact": "",
+    "lat": 16.9231394061257,
+    "lng": 96.1594770874377,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0659",
+    "stationCode": "G0659",
+    "address": "No134, Banyar Dala Road, Ka/Da Ward, Tarmwe Township.",
+    "contact": "",
+    "lat": 16.810789,
+    "lng": 96.1713119,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0660",
+    "stationCode": "G0660",
+    "address": "Max Petrol Station, Block 4B, Thilawa Housing, Industrial Zone, Thanlyin Township.",
+    "contact": "",
+    "lat": 16.6833541948018,
+    "lng": 96.2806792053287,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store. @ G0661",
+    "stationCode": "G0661",
+    "address": "No.240, Bargayar Road, Myaynigone South Ward, San Chaung Township.",
+    "contact": "",
+    "lat": 16.8036612037038,
+    "lng": 96.1386144445015,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0663",
+    "stationCode": "G0663",
+    "address": "No.216, Bo Son Pat Street, Middle Block, 10 Ward, Pabedan Township.",
+    "contact": "",
+    "lat": 16.7738413776415,
+    "lng": 96.1572054472102,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0664",
+    "stationCode": "G0664",
+    "address": "No.176, Sule Pagoda Road, 1Ward, Kyauktada Township.",
+    "contact": "",
+    "lat": 16.7773689881142,
+    "lng": 96.1591246391494,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0665",
+    "stationCode": "G0665",
+    "address": "No.43, Middle Baho Road, Top of Daw Hla Khin Street, 2 Ward, Myaynigone Township.",
+    "contact": "",
+    "lat": 16.8688633304795,
+    "lng": 96.1151431237652,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0666",
+    "stationCode": "G0666",
+    "address": "No.12, Yangon United Sport Complex, Yangon-Insein Road, 12 Ward, Hlaing Township.",
+    "contact": "",
+    "lat": 16.8466763006588,
+    "lng": 96.1256601632198,
+    "active": true
+  },
+  {
+    "name": "g&g Convenience Store @ G0667",
+    "stationCode": "G0667",
+    "address": "No.6, Lanmadaw 3 Street, Si pin thar yar ward, 5 Ward, Nyung U Township.",
+    "contact": "",
+    "lat": 21.1929975791235,
+    "lng": 94.8963571779204,
+    "active": true
+  }
+]
